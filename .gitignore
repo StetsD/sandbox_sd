@@ -1,0 +1,39 @@
+#Compiles files#
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+#Work/Serve files#
+*.7x
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.psd
+
+#Logs and databases#
+*.log
+*.sql
+*.sqlite
+
+#Other files#
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+node_modules/
+
+#Develop Build#
+/app/
+/app/js/**/*
+/app/css/**/*
+/app/img/
+/app/*.html
+/.sass-cache
+/bower_components

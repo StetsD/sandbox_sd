@@ -1,0 +1,16 @@
+{
+  "name": "sandbox_sd",
+  "version": "0.0.0",
+  "authors" : [
+    "StetsD"
+  ],
+  "main" : "gulpfile.js",
+  "license" : "MIT",
+  "private" : true,
+  "dependencies": {
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "normalize-css": "normalize.css#~3.0.3"
+  }
+}

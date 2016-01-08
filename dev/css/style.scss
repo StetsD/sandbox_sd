@@ -1,0 +1,15 @@
+@import '../../bower_components/normalize-css/normalize';
+@import 'dev/mixins';
+@import 'dev/config';
+
+.wrapper  {
+	width: 100%;
+	min-height: 100%;
+	position: relative;
+	height: auto !important;
+}
+
+.website {
+	height: 100%;
+	width: 100%;
+}
